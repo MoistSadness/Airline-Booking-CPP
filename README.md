@@ -83,7 +83,8 @@ Calculate the cost based on the distance the plane will be traveling
 Different planes have different layouts
 Use a 2 dimensional array of seatstructures to represent the seats on the plane
   N = not a seat
-  p = seat taken by passenger
+  p = seat taken by rando passenger
+  Y = your seat
 
   0 1 2 3 4 5 6
 0 N           N
@@ -92,7 +93,7 @@ Use a 2 dimensional array of seatstructures to represent the seats on the plane
 3
 4   p     p p
 5
-6
+6     Y
 7     p p
 8
 9   p p     p
