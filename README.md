@@ -24,11 +24,13 @@ When you’re booking a seat it lies somewhere in a specific row and column. Thi
 
 #Starting Menu
 Welcome to your airport booking. What would you like to do?
+  1. View world map
   1. View your bookings
   2. Create booking
+  3. Update booking
   3. Visualize booking? (IDK)
   4. Add city   // maybe
-  5. Clear User Data
+  5. Remove booking
   6. ...
 
 
